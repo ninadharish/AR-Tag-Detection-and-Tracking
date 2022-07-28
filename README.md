@@ -1,4 +1,4 @@
-# Morphological Image Processing to Remove Noise
+# AR Tag Detection and Tracking
 
 ## Description
 
